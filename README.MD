@@ -23,4 +23,3 @@ Steps of Project
 
 10. build a csv like a sample submission
 
-11. send Submission file on mail.
